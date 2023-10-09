@@ -16,4 +16,9 @@ How to Run this project:
 Make sure to put all files in a single folder or the project will not run properly.
 
 Output:
-![portfollio 2](https://github.com/SanketKadam7/Portfollio-Website/assets/141565366/1f544cac-5263-4e35-bfc1-1fe2ce7d19eb)
+
+![portfollio 1](https://github.com/SanketKadam7/Portfollio-Website/assets/141565366/e7f14bc4-d302-444a-85c8-c3f4986c54ad)
+
+![portfollio 2](https://github.com/SanketKadam7/Portfollio-Website/assets/141565366/705b5635-ad5b-4d1e-be7a-3fbab9708487)
+
+
